@@ -6,7 +6,7 @@ export const userLogin = async (
     res: Response,
     next: NextFunction
 ) => {
-    try {
+    try {   
         const { email, password } = req.body
         const { token } = await authService.login(email, password)
         res.status(200).send(token)

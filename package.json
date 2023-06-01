@@ -17,7 +17,7 @@
     "dependencies": {
         "@hapi/boom": "^10.0.1",
         "@hookform/resolvers": "^3.1.0",
-        "@prisma/client": "^4.14.1",
+        "@prisma/client": "^4.15.0",
         "@types/jsonwebtoken": "^9.0.2",
         "bcryptjs": "^2.4.3",
         "cors": "^2.8.5",
@@ -41,7 +41,7 @@
         "lint-staged": "^13.2.2",
         "nodemon": "^2.0.22",
         "prettier": "^2.8.8",
-        "prisma": "^4.14.1",
+        "prisma": "^4.15.0",
         "ts-node": "^10.9.1",
         "typescript": "^5.0.4",
         "zod": "^3.21.4"
